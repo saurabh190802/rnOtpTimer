@@ -61,4 +61,15 @@ const styles = StyleSheet.create({});
 ```
 
 
+## License
+
+MIT
+
+### Contact
+
+Email: saurabhsatapathy0@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/saurabh-satapathy-692a6a1b9/<br>
+GitHub: https://github.com/saurabh190802 <br>
+Twitter: https://mobile.twitter.com/SaurabhSatapat1
+
  
