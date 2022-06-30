@@ -15,8 +15,8 @@ https://user-images.githubusercontent.com/75023861/176608314-235d203b-69c3-4b2d-
 
 | props | details |
 | ------ | ------ |
-|  minute | give the minute for countdown (must given prop if nothing to give then just give 0)|
-| second| give the seconds (must given prop if nothing to give then just give 0) |
+|  minute | give the minutes you want for countdown (must given prop if nothing to give then just give 0)|
+| second| give the seconds you want for countdown (must given prop if nothing to give then just give 0) |
 | textcolor | it will change the color of  time |
 | fontsize | it will change the font size of time |
 | fontfamily |it will change the font family of time |
